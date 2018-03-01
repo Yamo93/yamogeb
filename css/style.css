@@ -407,4 +407,9 @@ h3 {
 @media (max-width: 485px) {
   .portfolio {
     margin-top: 15rem;
-    clear: both; } }
+    clear: both; } 
+  .front-main {
+  background-attachment: none;
+  }
+}
+
