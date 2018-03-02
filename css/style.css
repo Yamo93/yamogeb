@@ -6,7 +6,7 @@ html {
   font-size: 62.5%; }
 
 body {
-  font-family: 'Montserrat', sans-serif; overflow: hidden;}
+  font-family: 'Montserrat', sans-serif;}
 
 p {
   font-size: 2rem; }
@@ -32,6 +32,7 @@ h3 {
   background-size: cover;
   background-position: center;
   text-align: center;
+  overflow: hidden;
   position: relative; }
   .front-main .fa-align-justify {
     position: fixed;
